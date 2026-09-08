@@ -6,7 +6,7 @@ public class RectangleCalculator {
         double perimeter;
 
         //find area
-        area = length * width;
+        area = length * width; // calculate the rectangle area
 
         //find perimeter
         perimeter = 2 * (length + width);
