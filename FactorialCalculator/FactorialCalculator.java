@@ -8,7 +8,7 @@ public class FactorialCalculator {
         //Declare an int variable named number and assign it a value of 7\
              final int number = 7;
         //Declare a long variable named factorial and initialise it to 1
-            long factorial = 1;
+            long factorial = 1L;
         //Declare an int variable i and initialise it to 1
             int i =1;
 
