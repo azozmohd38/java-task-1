@@ -18,7 +18,7 @@ public class EvenNumberAnalyzer {
         for (int i = 1; i <= limit; i++)
             if (i % 2 == 0) {
                 //print even number
-                System.out.println(i);
+                System.out.println("Even number: " + i);
                 // ncrease the count variable by 1
                 count = count + 1;
                 //Add the number to the sum
