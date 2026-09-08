@@ -20,7 +20,7 @@ public class EvenNumberAnalyzer {
                 //print even number
                 System.out.println(i);
                 // ncrease the count variable by 1
-                count++;
+                count = count + 1;
                 //Add the number to the sum
                 sum += i;
 
