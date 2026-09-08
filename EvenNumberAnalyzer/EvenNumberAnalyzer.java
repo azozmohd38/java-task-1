@@ -22,7 +22,7 @@ public class EvenNumberAnalyzer {
                 // ncrease the count variable by 1
                 count = count + 1;
                 //Add the number to the sum
-                sum += i;
+                sum = sum + i;
 
                 // Print the total number of even numbers
                 System.out.println("Total even numbers: " + count);
