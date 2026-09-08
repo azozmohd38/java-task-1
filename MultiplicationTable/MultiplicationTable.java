@@ -1,7 +1,7 @@
 package PACKAGE_NAME;
 
 public class MultiplicationTable {
-    public static void main(String[]arge){
+    public static void main(String[]args){
        //Declare an int variable named base and assign it a value of 9
        int base = 9;
        //Use a for loop that runs a counter variable from 1 to 10
