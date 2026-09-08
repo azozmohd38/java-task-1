@@ -7,7 +7,7 @@ public class MultiplicationTable {
        //Use a for loop that runs a counter variable from 1 to 10
         for (int i = 1; i <= 10; i++){
          int result = base * i;
-         System.out.println(base + " x " + i + " = " + result);
+         System.out.println(base + " x " + i + " = " + result); // show the table row
         }
     }
 }
