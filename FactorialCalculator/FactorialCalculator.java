@@ -17,7 +17,7 @@ public class FactorialCalculator {
         //multiply factorial by i and store the result back into factorial
             factorial *= i;
         //increment i by 1
-            i++;
+            i = i + 1;
 
         //print the original number
             System.out.println("Number: "+ number);
