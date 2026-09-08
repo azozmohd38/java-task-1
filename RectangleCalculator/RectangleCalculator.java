@@ -9,7 +9,7 @@ public class RectangleCalculator {
         area = length * width;
 
         //find perimeter
-        perimter = 2 * (length + width);
+        perimeter = 2 * (length + width);
 
 
         System.out.println("Length: " + length);
