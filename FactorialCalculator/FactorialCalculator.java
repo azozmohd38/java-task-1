@@ -1,4 +1,5 @@
 public class FactorialCalculator {
+
     public static void main(String[] arge){
         //Declare an int variable named number and assign it a value of 7\
              int number = 7;
