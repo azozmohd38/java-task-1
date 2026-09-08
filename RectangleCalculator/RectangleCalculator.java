@@ -3,7 +3,7 @@ public class RectangleCalculator {
         final double length = 12.5;
         final double width = 8.0;
         double area;
-        double perimter;
+        double perimeter;
 
         //find area
         area = length * width;
