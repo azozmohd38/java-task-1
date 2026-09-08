@@ -15,7 +15,7 @@ public class RectangleCalculator {
         System.out.println("Length: " + length);
         System.out.println("Width: " + width);
         System.out.println("Area: " + area);
-        System.out.println("Perimeter: " + perimter);
+        System.out.println("Perimeter: " + perimeter);
 
 
 
