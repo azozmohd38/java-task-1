@@ -2,6 +2,7 @@ public class EvenNumberAnalyzer {
 
 
 
+
     public static void main(String[] arge) {
         //Declare an int variable named limit and set it to 20
         int limit = 20;
