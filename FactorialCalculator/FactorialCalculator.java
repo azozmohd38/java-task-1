@@ -22,7 +22,7 @@ public class FactorialCalculator {
         //print the original number
             System.out.println("Number: " + number);
         // Print the calculated factorial value
-            System.out.println("Factorial: "+factorial);
+            System.out.println("Factorial: " + factorial);
 
 
 
