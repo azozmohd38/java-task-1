@@ -1,6 +1,6 @@
 public class RectangleCalculator {
     public static void main(String[]args){
-        double length = 12.5;
+        final double length = 12.5;
         double width = 8.0;
         double area;
         double perimter;
