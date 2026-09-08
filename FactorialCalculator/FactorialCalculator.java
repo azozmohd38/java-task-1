@@ -15,7 +15,7 @@ public class FactorialCalculator {
         //Use a while loop with the condition i <= number
         while (i <= number){
         //multiply factorial by i and store the result back into factorial
-            factorial = factorial * i;
+            factorial *= i;
         //increment i by 1
             i++;
 
