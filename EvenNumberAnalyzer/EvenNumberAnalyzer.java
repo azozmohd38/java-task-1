@@ -13,7 +13,7 @@ public class EvenNumberAnalyzer {
         //Declare an int variable named count and initialise it to 0
         int count = 0; // tracks the even numbers found
         //Declare an int variable named sum and initialise it to 0
-        int sum = 0;
+        int sum = 0; // stores the running total
         // loop to iterate from 1 to limit
         for (int i = 1; i <= limit; i++)
             if (i % 2 == 0) {
