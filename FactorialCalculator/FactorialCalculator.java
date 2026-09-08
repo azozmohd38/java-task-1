@@ -10,7 +10,7 @@ public class FactorialCalculator {
         //Declare a long variable named factorial and initialise it to 1
             long factorial = 1L;
         //Declare an int variable i and initialise it to 1
-            int i =1;
+            int i = 1;
 
         //Use a while loop with the condition i <= number
         while (i <= number){
